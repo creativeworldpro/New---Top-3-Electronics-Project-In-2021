@@ -20,17 +20,12 @@ Project Name – Solar Make Dark Sensor
 
 Component List :
 
-1. Transistor – BC 547
-2. 
-3. Diode – 1N 4007
-4. 
-5. Resistor – 1 KΩ
-6. 
-7. Battery – 3.7v
-8. 
-9. Led – 3 watt
-10. 
-11. Solar
+1. Transistor – BC 547 
+2. Diode – 1N 4007
+3. Resistor – 1 KΩ
+4. Battery – 3.7v
+4. Led – 3 watt
+5. Solar
 
 
 
@@ -55,18 +50,12 @@ Project Name – Transformer Less LED Driver Circuit
 Component List :
 
 1. Diode – 1N 4007 *8
-
-3. Resistor – 10 KΩ
-4. 
-5. Capacitor – 100µf/25v
-6. 
-7. Metalized Polypropylene Film Capacitor – 105k 400v
-8. 
-9. Power Source - AC Line
-10. 
-11. LED – DC 12v
-12. 
-13. AC Cable
+2. Resistor – 10 KΩ
+3. Capacitor – 100µf/25v
+4. Metalized Polypropylene Film Capacitor – 105k 400v
+5. Power Source - AC Line
+6. LED – DC 12v
+7. AC Cable
 
 
 
@@ -90,12 +79,9 @@ Project Name – Mini & Cheap Amplifier Circuit
 Component List :
 
 1. Amplifier Circuit
-2. 
-3. Speaker *2
-4. 
-5. Battery – 3.7v
-6. 
-7. Audio Input Cabel.
+2. Speaker *2
+3. Battery – 3.7v
+4. Audio Input Cabel.
 
 
 
